@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # How to Coach 101
 
-We want the coaching sessions to be as personal and natural as possible. No strict guidelines here, just some loose recommendations.
+We want the coaching sessions to be as personal and natural as possible. No strict guidelines here, just some loose recommendations!
 
 ## Your first student
 1. You and the student have access to their GDrive folder, containing their training outline and discovery meeting notes
